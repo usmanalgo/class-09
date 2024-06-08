@@ -1,0 +1,135 @@
+*{ padding: 0;
+    margin: 0;
+
+}
+html{
+    /* font-size: 62.5%; */
+}
+
+
+.head{
+    text-align: center;
+border:1px solid rgb(168, 122, 53);
+color: #818486;
+padding: 7px;
+background-color: blanchedalmond;
+}
+.para-one{
+    background-color:#011F4B ;
+    padding: 4px;
+    margin: 2px;
+}
+.para-q{
+    background-color:#03396C ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-w{
+    background-color:#005B96 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-e{
+    background-color:#6497B1 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-r{
+    background-color:#B3CDE0 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-t{
+    background-color:#0B5C04 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-y{
+    background-color:#198908 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-u{
+    background-color:#31C110 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-i{
+    background-color:#48FB00 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-o{
+    background-color:#94fa6b ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-p{
+    background-color:#ff00008e ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-a{
+    background-color:#db4141b4 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-s{
+    background-color:#af5f5f ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-d{
+    background-color:#aa6868 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-f{
+    background-color:#b68383 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-g{
+    background-color:#FFD508 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-h{
+    background-color:#FFDE42 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-j{
+    background-color:#FFEB66 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-k{
+    background-color:#FFF195 ;
+    padding: 4px;
+    margin: 2px;
+
+}
+.para-l{
+    background-color:#FFFFB9 ;
+    padding: 4px;
+    margin: 2px;
+
+}
